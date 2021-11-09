@@ -1,50 +1,27 @@
 baseURL = ''
-languageCode = 'en-us'
-title = 'Thomas Rettig'
-theme = "lovelt"
+languageCode = 'en-US'
+title = 'th[o]m[a]s'
+theme = "etch"
 uglyurls = false
 
+pygmentsUseClasses = true  # use class names instead of directly inserting color codes
+pygmentsCodeFences = true  # enable GitHub style code snippets
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
 [params]
-  # LoveIt theme version
-  version = "0.2.X"
-[params.search]
-  enable = true
-  # type of search engine ("lunr", "algolia")
-  type = "lunr"
-  # max index length of the chunked content
-  contentLength = 4000
-  # placeholder of the search bar
-  placeholder = "search for a post"
-  #  max number of results length
-  maxResultLength = 10
-  #  snippet length of the result
-  snippetLength = 30
-  #  HTML tag name of the highlight part in results
-  highlightTag = "em"
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML"]
-
-[author]
-  name = "Thomas Rettig"
-  email = "thomas.rettig.11@gmail.com"
-[permalinks]
-  posts = '/:year/:title/'
+  description = "The personal blog of Thomas Rettig."
+  copyright = "Copyright © 2021 Thomas Rettig."
+  dark = "auto"
+  highlight = true
 
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ''
-    lineAnchors = ''
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = 'monokai'
-    tabWidth = 4
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true

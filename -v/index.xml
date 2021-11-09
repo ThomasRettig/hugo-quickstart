@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>th[o]m[a]s</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on th[o]m[a]s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>An open letter to Mr Raphael</title>
+      <link>//localhost:1313/posts/my-awful-cca-trainer/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/my-awful-cca-trainer/</guid>
+      <description>&lt;style&gt;
+	@media (prefers-color-scheme: dark) {
+		body{
+			background-repeat: no-repeat;
+			background-image: radial-gradient(50% 50% at top center,rgba(0,0,0,.66),#0C252F),url(https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/q_70/v1636375177/Artificial_Intelligence_Featured_Image_yj6pw8.avif);
+		}
+	}
+&lt;/style&gt;
+&lt;p&gt;&lt;em&gt;Note: Mr Raphael is my paid external &lt;span title=&#34;Co-curriclar Activity&#34;&gt;CCA&lt;/span&gt; trainer who teaches programming.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;smcp&gt;Dear Mr Raphael,&lt;/smcp&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What’s up?&lt;/em&gt; Last week was our last &lt;smcp title=&#34;Co-curricular Activity&#34;&gt;CCA&lt;/smcp&gt; session of the year, and it was a pretty awful one. Why? Because of you. On the flipside, it’s going to be a long time since we next meet in January next year. As you probably know, I’m not very happy with the way you’re teaching. Let me take recount on what you’ve done in the past few months solely in terms of your teaching.&lt;/p&gt;
+&lt;p&gt;Firstly, you have an affinity towards lying to our teachers-in-charge that we are making progress in our work when we are struggling and need help. I feel bad for Mr David and Ms Lan. They should not be getting lip-service, more so if its contents are untruthful. You are a professional who was hired to teach us programming. Yet, this is the state which we are in. Perhaps you need to be more alert and less laid back. This is the bare responsibility of a trainer. We know, that in university this kind of teaching is largely acceptable. That’s also how you were taught in university. But, we are a group of 13-year-old Secondary One students. Simply leaving us alone to do work is particularly perplexing. 90% of us have zero experience in Python. It is your job, as a trainer, to teach us, even the very basics.&lt;/p&gt;
+&lt;p&gt;Secondly, you give us vague unhelpful answers. It is hard to say if you are not fluent in the lesson material or that you are simply nonchalant about teaching us. I doubt it is the former. From your &lt;a href=&#34;https://www.linkedin.com/in/raphael-roshan-joseph/&#34;&gt;professional LinkedIn page&lt;/a&gt;, it appears that you are studying data science in &lt;smcp title=&#34;National University of Singapore&#34;&gt;NUS&lt;/smcp&gt;, and machine learning is your speciality. So why is it that you are so vague and unkind in your answers? It isn’t that we are not asking questions; rather, &lt;em&gt;you&lt;/em&gt; are not answering our questions. I’ve asked you some questions before. Conversely, you’re only reaction back then was, “why is your screen so dark?” I have a particularly distaste for such remarks. I never asked you to comment on my computer display’s brightness. If you want to get really technical, that’s also because my screen was facing downwards. But, talking to a trainer, I respect you, which is why I did not open my mouth.&lt;/p&gt;
+&lt;p&gt;Thirdly, you barely teach. I have not learnt anything about Python since you came. I feel that this is extremely unfortunate. At the start of the course, I was excited to learn about the language, but now my enthusiasm has withered. If you could just be a little bit more enthusiastic in your teaching, and if you actually &lt;em&gt;taught&lt;/em&gt;, I doubt I would be feeling the same way four months down the road.&lt;/p&gt;
+&lt;p&gt;For all these, reasons, I am a little disheartened with the quality of your teaching. The school is not paying you just to see your face on Zoom. The teachers-in-charge are not seeing you just to receive fake claims. And us, the students, are not meeting you every week just to learn nothing. I will be glad to follow-up on this and gain understanding from you. Look. I’m being nice and polite. I respect your coding abilities greatly, and I hope to attain the same proficiency as you one day. But for the time being, the only piece of Python code that I know of is:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Please go away.&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;smcp&gt;Yours sincerely,&lt;/smcp&gt;&lt;br&gt;Thomas Rettig&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>My tuition class is a Ponzi scheme</title>
+      <link>//localhost:1313/posts/my-tuition-class-is-a-ponzi-scheme/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/my-tuition-class-is-a-ponzi-scheme/</guid>
+      <description>&lt;style&gt;
+	@media (prefers-color-scheme: dark) {
+		body {
+			background-image: radial-gradient(50% 50% at top center,rgba(0,0,0,.66),#0C252F),url(https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/v1636375976/Tuition_Class_Featured_Image_s6kqbz.avif);
+			background-size: 100%;
+		}
+	}
+&lt;/style&gt;
+&lt;p&gt;&lt;smcp&gt;My mother loves&lt;/smcp&gt; the parents’ group chat. She’s started up a group tuition for classmates in the same level as mine. Suffice to say, it’s been fairly successful. She&amp;rsquo;s been able to recruit three investors from our level—two from my class, and one from another.&lt;/p&gt;
+&lt;p&gt;It’s hard to say if this scheme will last. We just started our first lesson last week. The highlight, of course, is that we get to eat together during the precious 15-minute break wedged between our science and mathematics classes. My friends seem to be enjoying the lessons. They could, also, be lying. You never know. But we are just starting out.&lt;/p&gt;
+&lt;p&gt;We shall see.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Why I’ve quit Brawl Stars</title>
+      <link>//localhost:1313/posts/i-have-quit-brawl-stars/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/i-have-quit-brawl-stars/</guid>
+      <description>&lt;style&gt;
+	@media (prefers-color-scheme: dark) {
+		body{
+			background-repeat: no-repeat;
+			background-image: radial-gradient(50% 50% at top center,rgba(0,0,0,.66),#0C252F),url(https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/v1636295609/brawl-stars-featured-image.avif);
+		}
+
+		main#content h1 {
+			background-image: none;
+			-webkit-text-fill-color: white;
+		}
+	}
+&lt;/style&gt;
+&lt;p&gt;I’ve quit Brawl Stars after 10 months of intensive playing. Not because I was &lt;em&gt;forced&lt;/em&gt; to, but because I &lt;em&gt;want&lt;/em&gt; to. So, here’s the problem: Brawl Stars is addictive. No, I do not mean that in a purely negative way. I mean that in an unethical, vicious way. Yes, it served me well. I enjoyed the playing; it was fun. It was a lived experience. The world around me was illuminated by the parallel universe of Brawl Stars. My friends, the online community; they felt the same way too.&lt;/p&gt;
+&lt;p&gt;But, time leads to change. Though I’ve subconsciously known Brawl Stars’, and perhaps more appropriately, Supercell’s, dirty tricks, I’m giving up now. I’m letting go of the hours accumulated playing the game. The sweat, but also the joy. Because, sometimes, all I need is peace. A little quiet, for self-reflection.&lt;/p&gt;
+&lt;p&gt;So, back to problem with Brawl Stars, and why I’ve quit.&lt;/p&gt;
+&lt;p&gt;Firstly, I don’t want to be trolled by a mega-million corporation. The cartoonish art of the game stands in stark contrast with Brawl Stars’ motives. And, to be really honest, there’s nothing inherently wrong with that. Games &lt;em&gt;are&lt;/em&gt; like this: Behind a glimmering surface, true intentions show. Euphemistically, in the gaming world, this is known as &lt;em&gt;retention&lt;/em&gt;. Truthfully, this is known as &lt;em&gt;manipulation&lt;/em&gt;. And this manipulation manifests itself, in the most supreme way—we drown amidst a continuous flashing of colours and cacophony of sound. We lose our buoyancy. We hand over ourselves to the developers.&lt;/p&gt;
+&lt;p&gt;In this case, I handed myself over to supercell.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For the most part, Brawl Stars is &lt;em&gt;not&lt;/em&gt; an e-sport. It will never be. Why, and why does this matter? The problem is that Brawl Stars does not reward skill. In games, even the trivial ones, such as Chrome Dino, skill is rewarded. And continuous skill leads to delight, in the greatest sense; delight that is a &lt;a href=&#34;https://frankchimero.com/blog/2010/big-ideas/#:~:text=to%20delight%20someone%20is%20to%20give%20a%20small%20lesson%20in%20how%20to%20see%20the%20world%20as%20something%20good&#34;&gt;small lesson in seeing the world as something good&lt;/a&gt;. How about Brawl Stars?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Terrible matchmaking&lt;/li&gt;
+&lt;li&gt;Toxic behaviour (like teaming, emotes)&lt;/li&gt;
+&lt;li&gt;Buggy &lt;smcp&gt;UX&lt;/smcp&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;terrible-matchmaking&#34;&gt;Terrible matchmaking&lt;/h2&gt;
+&lt;p&gt;Why &lt;em&gt;terrible matchmaking&lt;/em&gt;? Brawl Stars’ matchmaking philosophy is this: “Bah, don’t bother about the person’s power level, experience, just make sure the brawler is within the trophy range.” To me, that is absolutely ridiculous. Sometimes, Brawl Stars doesn’t even honour the last part with &lt;em&gt;underdog&lt;/em&gt;, their smart, but unfortunately ineffective strategy at matchmaking. Perhaps that’s understandable. But what about total trophy level? Brawl Stars loves this metric during matchmaking. However, there are two flaws. To illustrate the first flaw, here’s an unlikely—but nonetheless compelling—hypothesis. Imagine two players: Both are at a 1000 trophy level. But here’s the catch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;smcp&gt;Player A&lt;/smcp&gt; has 20 brawlers, each at 50 trophies. 20×50🏆=100🏆&lt;/li&gt;
+&lt;li&gt;&lt;smcp&gt;Player B&lt;/smcp&gt; has 2 brawlers, each at 500 trophies. 2×500🏆=1000🏆&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the difference? Then we have another flaw: Total trophy count does not necessarily reflect the player’s skill. You could have played 1000 matches to gain a 100 trophies, or you could have achieved the same with just 10 matches, with 10 consecutive Rank 1 Solo Showdown wins.&lt;/p&gt;
+&lt;h2 id=&#34;toxic-behaviour&#34;&gt;Toxic behaviour&lt;/h2&gt;
+&lt;p&gt;I feel that I’ve grown out the age group of Brawl Stars. A game should be universal, not just in location, but also in age. The problem really isn’t that Brawl Stars is preventing me from playing—it’s the players, the community—which is preventing me from doing so. Take a look at a small sampling of so-called toxic pins in the game:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/v1636295852/brawl-stars-toxic-pins.webp&#34;
+         alt=&#34;Toxic Pins&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Toxic Pins&lt;/h4&gt;&lt;p&gt;by u/Spicy_chickenugget&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Now, imagine seeing this in every game you play. Isn’t that humiliating? Seeing this once or twice is fine, but that constant abuse and their associated connotations. It’s annoying at best, and abusive at worst. This also happens in the chat:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/v1636296094/brawl-stars-toxic-chat.webp&#34;
+         alt=&#34;Toxic Chat&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Toxic Chat&lt;/h4&gt;&lt;p&gt;by u/&amp;ndash;TechHead&amp;ndash;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Oh, and this:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://res.cloudinary.com/cloudinary-sucks-so-fucking-much/image/upload/v1636296097/brawl-stars-inappropriate-map.webp&#34;
+         alt=&#34;Toxic Chat&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Inappropriate Maps&lt;/h4&gt;&lt;p&gt;by u/TheForestSaphire&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;Ugh.&lt;/em&gt; Seriously? I could give a few dozen more examples from the community, including my own, but that’s enough evidence. Think: How would a first-time player react to something like this? In my opnion, I feel like I simply don’t belong to the community; I don’t want to voluntarily suffer from a bunch of 9-year-olds. I know Brawl Stars isn’t the only one suffering from this problem. League of Legends has also suffered something similar. Yes, the Brawl Stars developers can implement strict censorship software, but it can only go so far. There are many loopholes in the game, particularly in inappropriate mapmaker content. There’s virtually no way you can detect inappropriate words in a map. It’s like a &lt;em&gt;bot&lt;/em&gt; trying to solve a &lt;smcp&gt;Captcha&lt;/smcp&gt; test. At the end of the day, it depends on the community. Sure, the community is passionate and vibrant on platforms (namely &lt;a href=&#34;https://reddit.com/r/brawlstars&#34;&gt;Reddit&lt;/a&gt;), but the bad eggs ruin the experience. I’m not here to be victimised, I just want to play.&lt;/p&gt;
+&lt;h2 id=&#34;buggy-ux&#34;&gt;Buggy UX&lt;/h2&gt;
+&lt;p&gt;Brawl Stars suffers from a horrible &lt;smcp&gt;UX&lt;/smcp&gt;.  From the time when brawlers became “black” to the day when star powers could not be selected, Brawl Stars players—especially the experienced—would concede that the Brawl Stars user experience is terribly buggy. You can find daily posts on Reddit documenting various bugs. Sure, some bugs are fun, but once there are two many, the experience is entirely unpleasurable. It’s hard for me to judge the developers. I doubt they have manpower issues as with any burgeoning, billion-dollar gaming behemoth. I, too, doubt that the developers are lousy. What I suspect, rather, is that Brawl Stars is pushing their developers to implement new features so much, that the game itself cannot keep up.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For all these reasons, I’m quitting Brawl Stars. I do not know if I’ll regret this decision in the near future. But as for now, it’s time for a break. A good &lt;em&gt;and&lt;/em&gt; long break.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>“Hello world” in CSS?</title>
+      <link>//localhost:1313/posts/hello-world-in-css/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/hello-world-in-css/</guid>
+      <description>&lt;p&gt;Yes, you can! Thanks to this &lt;a href=&#34;https://css-tricks.com/is-css-a-programming-language/&#34;&gt;insightful article&lt;/a&gt; by Chris Coyier over at CSS-Tricks—athough this is more of an edge case. Here’s what he says:&lt;/p&gt;
+&lt;p&gt;&lt;smcp&gt;CSS&lt;/smcp&gt; can’t do that! Um, well, unless you write &lt;code&gt;body::after { content: &amp;quot;Hello, World!&amp;quot;; }&lt;/code&gt; in &lt;code&gt;style.css&lt;/code&gt; file and open a web page that loads that &lt;smcp&gt;CSS&lt;/smcp&gt; file. So &lt;smcp&gt;CSS&lt;/smcp&gt; does execute, in its own special way. It’s a domain-specific language (&lt;smcp&gt;DSL&lt;/smcp&gt;) rather than a general-purpose language (&lt;smcp&gt;GPL&lt;/smcp&gt;). In that browser context, the way &lt;smcp&gt;CSS&lt;/smcp&gt; is told to run (&lt;code&gt;&amp;lt;link&amp;gt;&lt;/code&gt;, usually) isn’t even that different from how JavaScript is told to run (&lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;, usually).&lt;/p&gt;
+&lt;p&gt;So, to sum up:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;after&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;content&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;can produce something like this:&lt;/p&gt;
+&lt;iframe height=&#34;300&#34; style=&#34;width: 100%;&#34; scrolling=&#34;no&#34; title=&#34;CSS Hello World&#34; src=&#34;https://codepen.io/ThomasRettig/embed/QWMmEGQ?default-tab=css%2Cresult&amp;editable=true&#34; frameborder=&#34;no&#34; loading=&#34;lazy&#34; allowtransparency=&#34;true&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;This is pretty obvious, but it just goes to show that&amp;hellip; &lt;smcp&gt;CSS&lt;/smcp&gt; &lt;em&gt;can&lt;/em&gt; in fact print &lt;code&gt;Hello World&lt;/code&gt;. Of course, &lt;smcp&gt;CSS&lt;/smcp&gt; But the larger argument that Chris makes, is that, while CSS might not be the first candidate for Turing completeness, it does in fact contain some programming concepts inside.&lt;/p&gt;
+&lt;h2 id=&#34;smcpcsssmcp-_is_-a-programming-language&#34;&gt;&lt;smcp&gt;CSS&lt;/smcp&gt; &lt;em&gt;is&lt;/em&gt; a programming language!&lt;/h2&gt;
+&lt;p&gt;His main points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;smcp&gt;CSS&lt;/smcp&gt; selectors are simply &lt;code&gt;if&lt;/code&gt; statements running over loops of matches&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;calc()&lt;/code&gt; is a direct implementation of math (&lt;a href=&#34;https://medium.com/buildit/hardcore-css-calc-bdfb0162993c&#34;&gt;check this!&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Media queries are switches&lt;/li&gt;
+&lt;li&gt;Custom properties are a place to store states&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;:checked&lt;/code&gt; is a boolean&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And, my own contribution: Aren’t &lt;code&gt;!important&lt;/code&gt; and &lt;code&gt;@supports&lt;/code&gt; both proof that &lt;smcp&gt;CSS&lt;/smcp&gt; is a programming language, in its own, albeit special, way?&lt;/p&gt;
+&lt;p&gt;Chris asserts that the bigger picture is about pay. His concern: If &lt;smcp&gt;CSS&lt;/smcp&gt; is not regarded as a true programming language, would &lt;smcp&gt;CSS&lt;/smcp&gt; specialists get lower pay than their counterparts?&lt;/p&gt;
+&lt;h2 id=&#34;direct-link&#34;&gt;Direct link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://css-tricks.com/is-css-a-programming-language/&#34;&gt;https://css-tricks.com/is-css-a-programming-language/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
